@@ -1,6 +1,5 @@
 # ImageRecognition-Balls-
 - 사용 언어: MATLAB
-- Github link: 
 - MATLAB 기반으로 만든, Image Recognition application 입니다.
 	- 이 프로그램은 Image중에서 몇 개의 파란색, 초록색, 노란색 빨간색 공이 있는지 알려주는 프로그램입니다.
 	 - 프로그램에서 사용된 이미지 파일들은 source_files/ 폴더에 있습니다.
